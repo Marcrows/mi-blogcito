@@ -26,3 +26,9 @@ header {
 #cotenido-post {
     padding: 10px;
 }
+
+footer {
+    margin: 0 auto;
+    width: 70%;
+    border-top: 2px #333 solid;
+}
