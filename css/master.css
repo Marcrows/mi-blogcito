@@ -3,6 +3,18 @@ section {
     width: 50%;
 }
 
+header {
+    text-align: center;
+    background-color: rgb(245, 255, 210);
+    margin: 0 auto;
+    width: 70%;
+}
+
+.titulo-tagline {
+    text-decoration: dotted;
+    font-size: small;
+}
+
 #titulo-post {
     border-bottom: 2px #333 solid;    
 }
